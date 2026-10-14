@@ -1,0 +1,27 @@
+/* Rives — appliquer data-theme="03-rives" au conteneur de l'interface. */
+[data-theme="03-rives"] {
+  --primary: #164C43;
+  --accent: #B7AED5;
+  --background: #E8F0EC;
+  --surface: #F5F0E6;
+  --text: #173F38;
+  --secondary: #8EB5A7;
+  --theme-primary: #164C43;
+  --theme-accent: #B7AED5;
+  --theme-background: #E8F0EC;
+  --theme-surface: #F5F0E6;
+  --theme-text: #173F38;
+  --theme-secondary: #8EB5A7;
+  --heading-font: 'Trebuchet MS', 'Segoe UI', sans-serif;
+  --body-font: 'Segoe UI', Arial, sans-serif;
+  --font-heading: 'Trebuchet MS', 'Segoe UI', sans-serif;
+  --font-body: 'Segoe UI', Arial, sans-serif;
+  --radius: 24px;
+  --theme-radius: 24px;
+  --space-unit: 4px;
+}
+[data-theme="03-rives"] .theme-panel { background: var(--surface); color: var(--text); border-radius: var(--radius); }
+[data-theme="03-rives"] .theme-heading { font-family: var(--heading-font); }
+[data-theme="03-rives"] .theme-body { font-family: var(--body-font); }
+[data-theme="03-rives"] .theme-action { background: var(--primary); color: #FFFFFF; border-radius: var(--radius); }
+

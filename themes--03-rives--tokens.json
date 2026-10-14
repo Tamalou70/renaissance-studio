@@ -1,0 +1,30 @@
+{
+  "name": "Rives",
+  "id": "03-rives",
+  "version": "1.0.0",
+  "description": "Des lignes de rivière, des panneaux arrondis et un rythme paisible. Le vert profond et la lavande relient les espaces publics à leur paysage.",
+  "colors": {
+    "primary": "#164C43",
+    "accent": "#B7AED5",
+    "background": "#E8F0EC",
+    "surface": "#F5F0E6",
+    "text": "#173F38",
+    "secondary": "#8EB5A7"
+  },
+  "typography": {
+    "heading": "'Trebuchet MS', 'Segoe UI', sans-serif",
+    "body": "'Segoe UI', Arial, sans-serif"
+  },
+  "shape": {
+    "radius": 24
+  },
+  "layout": "organic",
+  "spacing": {
+    "unit": 4,
+    "small": 8,
+    "medium": 16,
+    "large": 24,
+    "section": 48
+  },
+  "logoNote": "Interprétation SVG originale du concept, non tracée depuis la planche. Typographie système modifiable."
+}

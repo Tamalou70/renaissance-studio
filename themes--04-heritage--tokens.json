@@ -1,0 +1,30 @@
+{
+  "name": "Héritage",
+  "id": "04-heritage",
+  "version": "1.0.0",
+  "description": "Une direction Côte Est : capitales à empattements, filets fins, bleu marine, papier crème et brique. Une présence municipale établie et accueillante.",
+  "colors": {
+    "primary": "#18354A",
+    "accent": "#A84B3F",
+    "background": "#F1E9D8",
+    "surface": "#FBF8F1",
+    "text": "#18354A",
+    "secondary": "#B49861"
+  },
+  "typography": {
+    "heading": "Georgia, 'Times New Roman', serif",
+    "body": "'Segoe UI', Arial, sans-serif"
+  },
+  "shape": {
+    "radius": 0
+  },
+  "layout": "heritage",
+  "spacing": {
+    "unit": 4,
+    "small": 8,
+    "medium": 16,
+    "large": 24,
+    "section": 48
+  },
+  "logoNote": "Interprétation SVG originale du concept, non tracée depuis la planche. Typographie système modifiable."
+}

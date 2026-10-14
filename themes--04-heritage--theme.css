@@ -1,0 +1,27 @@
+/* Héritage — appliquer data-theme="04-heritage" au conteneur de l'interface. */
+[data-theme="04-heritage"] {
+  --primary: #18354A;
+  --accent: #A84B3F;
+  --background: #F1E9D8;
+  --surface: #FBF8F1;
+  --text: #18354A;
+  --secondary: #B49861;
+  --theme-primary: #18354A;
+  --theme-accent: #A84B3F;
+  --theme-background: #F1E9D8;
+  --theme-surface: #FBF8F1;
+  --theme-text: #18354A;
+  --theme-secondary: #B49861;
+  --heading-font: Georgia, 'Times New Roman', serif;
+  --body-font: 'Segoe UI', Arial, sans-serif;
+  --font-heading: Georgia, 'Times New Roman', serif;
+  --font-body: 'Segoe UI', Arial, sans-serif;
+  --radius: 0px;
+  --theme-radius: 0px;
+  --space-unit: 4px;
+}
+[data-theme="04-heritage"] .theme-panel { background: var(--surface); color: var(--text); border-radius: var(--radius); }
+[data-theme="04-heritage"] .theme-heading { font-family: var(--heading-font); }
+[data-theme="04-heritage"] .theme-body { font-family: var(--body-font); }
+[data-theme="04-heritage"] .theme-action { background: var(--primary); color: #FFFFFF; border-radius: var(--radius); }
+
