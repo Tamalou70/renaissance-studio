@@ -1,0 +1,30 @@
+{
+  "name": "Place Libre",
+  "id": "08-place-libre",
+  "version": "1.0.0",
+  "description": "Un cercle ouvert, des lettres massives et une présence vermillon. L'identité occupe la rue, les affiches et les lieux de rencontre avec une voix populaire.",
+  "colors": {
+    "primary": "#EF4B36",
+    "accent": "#C6DDE3",
+    "background": "#F3EEE5",
+    "surface": "#FFFBF3",
+    "text": "#212426",
+    "secondary": "#EF4B36"
+  },
+  "typography": {
+    "heading": "Arial, Helvetica, sans-serif",
+    "body": "Arial, Helvetica, sans-serif"
+  },
+  "shape": {
+    "radius": 0
+  },
+  "layout": "bold",
+  "spacing": {
+    "unit": 4,
+    "small": 8,
+    "medium": 16,
+    "large": 24,
+    "section": 48
+  },
+  "logoNote": "Interprétation SVG originale du concept, non tracée depuis la planche. Typographie système modifiable."
+}

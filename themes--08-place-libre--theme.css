@@ -1,0 +1,27 @@
+/* Place Libre — appliquer data-theme="08-place-libre" au conteneur de l'interface. */
+[data-theme="08-place-libre"] {
+  --primary: #EF4B36;
+  --accent: #C6DDE3;
+  --background: #F3EEE5;
+  --surface: #FFFBF3;
+  --text: #212426;
+  --secondary: #EF4B36;
+  --theme-primary: #EF4B36;
+  --theme-accent: #C6DDE3;
+  --theme-background: #F3EEE5;
+  --theme-surface: #FFFBF3;
+  --theme-text: #212426;
+  --theme-secondary: #EF4B36;
+  --heading-font: Arial, Helvetica, sans-serif;
+  --body-font: Arial, Helvetica, sans-serif;
+  --font-heading: Arial, Helvetica, sans-serif;
+  --font-body: Arial, Helvetica, sans-serif;
+  --radius: 0px;
+  --theme-radius: 0px;
+  --space-unit: 4px;
+}
+[data-theme="08-place-libre"] .theme-panel { background: var(--surface); color: var(--text); border-radius: var(--radius); }
+[data-theme="08-place-libre"] .theme-heading { font-family: var(--heading-font); }
+[data-theme="08-place-libre"] .theme-body { font-family: var(--body-font); }
+[data-theme="08-place-libre"] .theme-action { background: var(--primary); color: #000000; border-radius: var(--radius); }
+

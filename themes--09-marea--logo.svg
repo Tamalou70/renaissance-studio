@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="230" viewBox="0 0 960 230" role="img" aria-labelledby="title desc">
+<title id="title">Renaissance — Maréa</title>
+<desc id="desc">Interprétation SVG originale du concept, non tracée depuis la planche. Typographie système modifiable.</desc>
+<rect width="960" height="230" rx="8" fill="#FFF0D9"/>
+<g color="#168F98"><g fill="none" stroke="currentColor" stroke-width="11"><path d="M24 45H98C156 45 156 106 108 107"/><path d="M24 70H82M24 95H82"/><path d="M61 119C126 119 100 163 165 163"/><path d="M61 143C108 143 94 185 165 185"/></g></g>
+<text x="202" y="128" fill="#123D46" font-family="'Arial Narrow', 'Trebuchet MS', sans-serif" font-size="55" font-weight="500" letter-spacing="2">RENAISSANCE</text>
+<text x="205" y="162" fill="#123D46" font-family="Arial, sans-serif" font-size="11" letter-spacing="3.5">VIVRE EN COULEURS</text>
+</svg>
+
