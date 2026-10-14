@@ -1,0 +1,27 @@
+/* Pacifique — appliquer data-theme="06-pacifique" au conteneur de l'interface. */
+[data-theme="06-pacifique"] {
+  --primary: #17686B;
+  --accent: #D96C50;
+  --background: #F1E5CE;
+  --surface: #FFF9EF;
+  --text: #174C50;
+  --secondary: #B9D5DF;
+  --theme-primary: #17686B;
+  --theme-accent: #D96C50;
+  --theme-background: #F1E5CE;
+  --theme-surface: #FFF9EF;
+  --theme-text: #174C50;
+  --theme-secondary: #B9D5DF;
+  --heading-font: 'Trebuchet MS', 'Segoe UI', sans-serif;
+  --body-font: 'Segoe UI', Arial, sans-serif;
+  --font-heading: 'Trebuchet MS', 'Segoe UI', sans-serif;
+  --font-body: 'Segoe UI', Arial, sans-serif;
+  --radius: 18px;
+  --theme-radius: 18px;
+  --space-unit: 4px;
+}
+[data-theme="06-pacifique"] .theme-panel { background: var(--surface); color: var(--text); border-radius: var(--radius); }
+[data-theme="06-pacifique"] .theme-heading { font-family: var(--heading-font); }
+[data-theme="06-pacifique"] .theme-body { font-family: var(--body-font); }
+[data-theme="06-pacifique"] .theme-action { background: var(--primary); color: #FFFFFF; border-radius: var(--radius); }
+

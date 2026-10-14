@@ -1,0 +1,27 @@
+/* Forge — appliquer data-theme="05-forge" au conteneur de l'interface. */
+[data-theme="05-forge"] {
+  --primary: #1548B5;
+  --accent: #F2663A;
+  --background: #F2F0E9;
+  --surface: #FFFFFF;
+  --text: #252A2E;
+  --secondary: #747C84;
+  --theme-primary: #1548B5;
+  --theme-accent: #F2663A;
+  --theme-background: #F2F0E9;
+  --theme-surface: #FFFFFF;
+  --theme-text: #252A2E;
+  --theme-secondary: #747C84;
+  --heading-font: 'Arial Narrow', Impact, sans-serif;
+  --body-font: Arial, Helvetica, sans-serif;
+  --font-heading: 'Arial Narrow', Impact, sans-serif;
+  --font-body: Arial, Helvetica, sans-serif;
+  --radius: 0px;
+  --theme-radius: 0px;
+  --space-unit: 4px;
+}
+[data-theme="05-forge"] .theme-panel { background: var(--surface); color: var(--text); border-radius: var(--radius); }
+[data-theme="05-forge"] .theme-heading { font-family: var(--heading-font); }
+[data-theme="05-forge"] .theme-body { font-family: var(--body-font); }
+[data-theme="05-forge"] .theme-action { background: var(--primary); color: #FFFFFF; border-radius: var(--radius); }
+

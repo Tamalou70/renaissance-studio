@@ -1,0 +1,27 @@
+/* Horizon — appliquer data-theme="07-horizon" au conteneur de l'interface. */
+[data-theme="07-horizon"] {
+  --primary: #122A36;
+  --accent: #C8EF68;
+  --background: #F2F4EF;
+  --surface: #D9ECEC;
+  --text: #122A36;
+  --secondary: #86B3B6;
+  --theme-primary: #122A36;
+  --theme-accent: #C8EF68;
+  --theme-background: #F2F4EF;
+  --theme-surface: #D9ECEC;
+  --theme-text: #122A36;
+  --theme-secondary: #86B3B6;
+  --heading-font: 'Segoe UI', Arial, sans-serif;
+  --body-font: 'Segoe UI', Arial, sans-serif;
+  --font-heading: 'Segoe UI', Arial, sans-serif;
+  --font-body: 'Segoe UI', Arial, sans-serif;
+  --radius: 4px;
+  --theme-radius: 4px;
+  --space-unit: 4px;
+}
+[data-theme="07-horizon"] .theme-panel { background: var(--surface); color: var(--text); border-radius: var(--radius); }
+[data-theme="07-horizon"] .theme-heading { font-family: var(--heading-font); }
+[data-theme="07-horizon"] .theme-body { font-family: var(--body-font); }
+[data-theme="07-horizon"] .theme-action { background: var(--primary); color: #FFFFFF; border-radius: var(--radius); }
+

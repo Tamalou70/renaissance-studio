@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="230" viewBox="0 0 960 230" role="img" aria-labelledby="title desc">
+<title id="title">Renaissance — Pacifique</title>
+<desc id="desc">Interprétation SVG originale du concept, non tracée depuis la planche. Typographie système modifiable.</desc>
+<rect width="960" height="230" rx="18" fill="#F1E5CE"/>
+<g color="#17686B"><g fill="none" stroke="currentColor" stroke-width="13" stroke-linecap="round"><path d="M37 165V45H105C163 45 163 107 105 107H74"/><path d="M75 129C116 127 111 162 161 162"/><path d="M76 151C105 149 106 181 161 181"/></g></g>
+<text x="202" y="128" fill="#174C50" font-family="'Trebuchet MS', 'Segoe UI', sans-serif" font-size="69" font-weight="500" letter-spacing="-2">renaissance</text>
+<text x="205" y="162" fill="#174C50" font-family="Arial, sans-serif" font-size="11" letter-spacing="3.5">DE L'ESPACE POUR VIVRE</text>
+</svg>
+

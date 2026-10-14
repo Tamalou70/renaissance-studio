@@ -1,0 +1,30 @@
+{
+  "name": "Forge",
+  "id": "05-forge",
+  "version": "1.0.0",
+  "description": "L'énergie des Grands Lacs : une grille industrielle, des panneaux opaques, du bleu de travail et des repères orange. Un système robuste et fonctionnel.",
+  "colors": {
+    "primary": "#1548B5",
+    "accent": "#F2663A",
+    "background": "#F2F0E9",
+    "surface": "#FFFFFF",
+    "text": "#252A2E",
+    "secondary": "#747C84"
+  },
+  "typography": {
+    "heading": "'Arial Narrow', Impact, sans-serif",
+    "body": "Arial, Helvetica, sans-serif"
+  },
+  "shape": {
+    "radius": 0
+  },
+  "layout": "industrial",
+  "spacing": {
+    "unit": 4,
+    "small": 8,
+    "medium": 16,
+    "large": 24,
+    "section": 48
+  },
+  "logoNote": "Interprétation SVG originale du concept, non tracée depuis la planche. Typographie système modifiable."
+}

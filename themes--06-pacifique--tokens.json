@@ -1,0 +1,30 @@
+{
+  "name": "Pacifique",
+  "id": "06-pacifique",
+  "version": "1.0.0",
+  "description": "Un modernisme californien ouvert : bandes d'horizon, contours souples, teintes sable et corail. La ville se prolonge naturellement dans ses quartiers.",
+  "colors": {
+    "primary": "#17686B",
+    "accent": "#D96C50",
+    "background": "#F1E5CE",
+    "surface": "#FFF9EF",
+    "text": "#174C50",
+    "secondary": "#B9D5DF"
+  },
+  "typography": {
+    "heading": "'Trebuchet MS', 'Segoe UI', sans-serif",
+    "body": "'Segoe UI', Arial, sans-serif"
+  },
+  "shape": {
+    "radius": 18
+  },
+  "layout": "coastal",
+  "spacing": {
+    "unit": 4,
+    "small": 8,
+    "medium": 16,
+    "large": 24,
+    "section": 48
+  },
+  "logoNote": "Interprétation SVG originale du concept, non tracée depuis la planche. Typographie système modifiable."
+}

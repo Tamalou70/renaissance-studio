@@ -1,0 +1,30 @@
+{
+  "name": "Horizon",
+  "id": "07-horizon",
+  "version": "1.0.0",
+  "description": "Une métropole de demain aux cadres ouverts, tracés précis et espaces généreux. Le minéral et le bleu nuit accueillent de rares repères citron vert.",
+  "colors": {
+    "primary": "#122A36",
+    "accent": "#C8EF68",
+    "background": "#F2F4EF",
+    "surface": "#D9ECEC",
+    "text": "#122A36",
+    "secondary": "#86B3B6"
+  },
+  "typography": {
+    "heading": "'Segoe UI', Arial, sans-serif",
+    "body": "'Segoe UI', Arial, sans-serif"
+  },
+  "shape": {
+    "radius": 4
+  },
+  "layout": "future",
+  "spacing": {
+    "unit": 4,
+    "small": 8,
+    "medium": 16,
+    "large": 24,
+    "section": 48
+  },
+  "logoNote": "Interprétation SVG originale du concept, non tracée depuis la planche. Typographie système modifiable."
+}
