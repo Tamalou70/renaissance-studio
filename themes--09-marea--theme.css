@@ -1,0 +1,27 @@
+/* Maréa — appliquer data-theme="09-marea" au conteneur de l'interface. */
+[data-theme="09-marea"] {
+  --primary: #168F98;
+  --accent: #F17987;
+  --background: #FFF0D9;
+  --surface: #F8E6CC;
+  --text: #123D46;
+  --secondary: #352A46;
+  --theme-primary: #168F98;
+  --theme-accent: #F17987;
+  --theme-background: #FFF0D9;
+  --theme-surface: #F8E6CC;
+  --theme-text: #123D46;
+  --theme-secondary: #352A46;
+  --heading-font: 'Arial Narrow', 'Trebuchet MS', sans-serif;
+  --body-font: 'Segoe UI', Arial, sans-serif;
+  --font-heading: 'Arial Narrow', 'Trebuchet MS', sans-serif;
+  --font-body: 'Segoe UI', Arial, sans-serif;
+  --radius: 8px;
+  --theme-radius: 8px;
+  --space-unit: 4px;
+}
+[data-theme="09-marea"] .theme-panel { background: var(--surface); color: var(--text); border-radius: var(--radius); }
+[data-theme="09-marea"] .theme-heading { font-family: var(--heading-font); }
+[data-theme="09-marea"] .theme-body { font-family: var(--body-font); }
+[data-theme="09-marea"] .theme-action { background: var(--primary); color: #000000; border-radius: var(--radius); }
+
