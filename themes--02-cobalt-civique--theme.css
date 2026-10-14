@@ -1,0 +1,27 @@
+/* Cobalt Civique — appliquer data-theme="02-cobalt-civique" au conteneur de l'interface. */
+[data-theme="02-cobalt-civique"] {
+  --primary: #2454E6;
+  --accent: #E6EF73;
+  --background: #EDF0F2;
+  --surface: #FFFFFF;
+  --text: #20252B;
+  --secondary: #94ACEF;
+  --theme-primary: #2454E6;
+  --theme-accent: #E6EF73;
+  --theme-background: #EDF0F2;
+  --theme-surface: #FFFFFF;
+  --theme-text: #20252B;
+  --theme-secondary: #94ACEF;
+  --heading-font: Arial, Helvetica, sans-serif;
+  --body-font: Arial, Helvetica, sans-serif;
+  --font-heading: Arial, Helvetica, sans-serif;
+  --font-body: Arial, Helvetica, sans-serif;
+  --radius: 0px;
+  --theme-radius: 0px;
+  --space-unit: 4px;
+}
+[data-theme="02-cobalt-civique"] .theme-panel { background: var(--surface); color: var(--text); border-radius: var(--radius); }
+[data-theme="02-cobalt-civique"] .theme-heading { font-family: var(--heading-font); }
+[data-theme="02-cobalt-civique"] .theme-body { font-family: var(--body-font); }
+[data-theme="02-cobalt-civique"] .theme-action { background: var(--primary); color: #FFFFFF; border-radius: var(--radius); }
+

@@ -1,0 +1,30 @@
+{
+  "name": "Cobalt Civique",
+  "id": "02-cobalt-civique",
+  "version": "1.0.0",
+  "description": "Un langage public direct : blocs modulaires, contrastes francs, grandes flèches et typographie dense. Les services se lisent en un instant.",
+  "colors": {
+    "primary": "#2454E6",
+    "accent": "#E6EF73",
+    "background": "#EDF0F2",
+    "surface": "#FFFFFF",
+    "text": "#20252B",
+    "secondary": "#94ACEF"
+  },
+  "typography": {
+    "heading": "Arial, Helvetica, sans-serif",
+    "body": "Arial, Helvetica, sans-serif"
+  },
+  "shape": {
+    "radius": 0
+  },
+  "layout": "modular",
+  "spacing": {
+    "unit": 4,
+    "small": 8,
+    "medium": 16,
+    "large": 24,
+    "section": 48
+  },
+  "logoNote": "Interprétation SVG originale du concept, non tracée depuis la planche. Typographie système modifiable."
+}

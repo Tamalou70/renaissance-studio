@@ -1,0 +1,35 @@
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="color-scheme" content="light">
+  <title>Renaissance — Atelier des identités</title>
+  <link rel="stylesheet" href="studio.css">
+</head>
+<body>
+  <a class="skip" href="#main">Aller au contenu</a>
+  <aside class="sidebar" aria-label="Navigation de l’atelier">
+    <a class="studio-brand" href="#catalogue" aria-label="Renaissance Studio, catalogue"><span class="brand-symbol">r.</span><span>RENAISSANCE<small>ATELIER DES IDENTITÉS</small></span></a>
+    <div class="sidebar-section">ESPACE DE CRÉATION</div>
+    <nav class="primary-nav" aria-label="Vues">
+      <button type="button" data-view="catalogue"><span>▦</span> Catalogue <b>09</b></button>
+      <button type="button" data-view="prototype"><span>◈</span> Thèmes interactifs</button>
+      <button type="button" data-view="compare"><span>◫</span> Comparer</button>
+    </nav>
+    <div class="sidebar-section">LES NEUF DIRECTIONS</div>
+    <nav id="theme-nav" class="theme-nav" aria-label="Choisir un thème"></nav>
+    <div class="sidebar-bottom"><span class="status-dot"></span> ATELIER RENAISSANCE <p>Identités de ville.<br>Interfaces à explorer.</p><small>Concepts visuels · aucune connexion au serveur</small></div>
+  </aside>
+  <div class="workspace">
+    <header class="topbar"><div class="breadcrumb">Renaissance <span>/</span> <strong id="view-label">Catalogue</strong></div><div class="topbar-end"><span class="local-badge">Catalogue public</span><button class="quiet-button" id="help-button" aria-label="Afficher l’aide">?</button></div></header>
+    <main id="main" tabindex="-1"></main>
+    <footer class="studio-footer">RENAISSANCE STUDIO <span>Explorations d’identité & prototypes HTML · Version 01</span></footer>
+  </div>
+  <dialog id="lightbox" aria-labelledby="lightbox-title"><div class="lightbox-toolbar"><h2 id="lightbox-title">Aperçu</h2><a id="lightbox-original" target="_blank" rel="noopener">Ouvrir l’original ↗</a><button id="close-lightbox" aria-label="Fermer l’aperçu">✕</button></div><img id="lightbox-image" alt=""></dialog>
+  <dialog id="help-dialog" aria-labelledby="help-title"><h2 id="help-title">Votre atelier, prêt à explorer.</h2><p>Le catalogue rassemble les planches, logos et maquettes. Les thèmes interactifs utilisent de vrais composants HTML et les mêmes variables de couleur que les fichiers exportables.</p><p>Choisissez un thème, puis un écran. Vous pouvez tester le parcours de création, les onglets du menu pause, le score de tennis et les démarches de démonstration.</p><p>Les décors sont des compositions CSS. Les images sont des recherches artistiques. Aucune de ces vues n’est connectée à FiveM.</p><button id="close-help" class="button primary">Compris</button></dialog>
+  <div id="toast" class="toast" role="status" aria-live="polite"></div>
+  <script src="data.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>

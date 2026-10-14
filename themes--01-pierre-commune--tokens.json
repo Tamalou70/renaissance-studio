@@ -1,0 +1,30 @@
+{
+  "name": "Pierre Commune",
+  "id": "01-pierre-commune",
+  "version": "1.0.0",
+  "description": "Patrimoine quotidien, passages architecturaux et composition éditoriale. Des titres à empattements, des surfaces pierre et une signalétique chaleureuse.",
+  "colors": {
+    "primary": "#243C49",
+    "accent": "#B9644C",
+    "background": "#EAE4D8",
+    "surface": "#F8F5EE",
+    "text": "#243C49",
+    "secondary": "#87947D"
+  },
+  "typography": {
+    "heading": "Georgia, 'Times New Roman', serif",
+    "body": "'Segoe UI', Arial, sans-serif"
+  },
+  "shape": {
+    "radius": 2
+  },
+  "layout": "editorial",
+  "spacing": {
+    "unit": 4,
+    "small": 8,
+    "medium": 16,
+    "large": 24,
+    "section": 48
+  },
+  "logoNote": "Interprétation SVG originale du concept, non tracée depuis la planche. Typographie système modifiable."
+}

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="230" viewBox="0 0 960 230" role="img" aria-labelledby="title desc">
+<title id="title">Renaissance — Cobalt Civique</title>
+<desc id="desc">Interprétation SVG originale du concept, non tracée depuis la planche. Typographie système modifiable.</desc>
+<rect width="960" height="230" rx="0" fill="#EDF0F2"/>
+<g color="#2454E6"><path d="M30 160V50H67V75H95V50H165V86H105V114H67V160Z" fill="currentColor"/><path d="M104 119H165V155H104Z" fill="currentColor" opacity=".6"/></g>
+<text x="202" y="128" fill="#20252B" font-family="Arial, Helvetica, sans-serif" font-size="69" font-weight="800" letter-spacing="-2">renaissance</text>
+<text x="205" y="162" fill="#20252B" font-family="Arial, sans-serif" font-size="11" letter-spacing="3.5">LA VILLE EN MOUVEMENT</text>
+</svg>
+
